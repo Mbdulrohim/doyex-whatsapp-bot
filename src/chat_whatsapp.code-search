@@ -1,0 +1,22 @@
+# Query: chat.whatsapp
+# ContextLines: 1
+
+4 results - 2 files
+
+README.md:
+  40  
+  41: # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JAtSPlsjE8A1kCew0bXeag)
+  42  
+
+ZimBot.js:
+   100    "alquran",
+   101:   "https://chat.whatsapp.com/JAtSPlsjE8A1kCew0bXeag",
+   102    "Game\x20has\x20ended",
+
+   508    "tag",
+   509:   "https://chat.whatsapp.com/",
+   510    "seconds",
+
+  1911    if (_0x4facaa) {
+  1912:    if (_0xacbf21[_0x1a7072(0x259)]("https://chat.whatsapp.com/")) {
+  1913      if (!_0x184459[_0x1a7072(0x599)][_0x1a7072(0x247)]) {
